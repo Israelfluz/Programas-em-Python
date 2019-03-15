@@ -1,9 +1,9 @@
-#variáveis
+#Variáveis
 vetor = []
 posicao = 0
 tem_maior_50 = False
 
-#entradas
+#Entradas
 for n in range(0, 10):
     num = int(input("Informe {0} valor para o vetor: ".format(n + 1)))
     vetor.append(num)

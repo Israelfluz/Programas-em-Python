@@ -1,4 +1,4 @@
-#entrada
+#Entrada
 from django.forms.forms import Form
 numero = int(input("Informe um número: "))
 

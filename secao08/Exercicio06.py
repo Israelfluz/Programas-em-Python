@@ -1,4 +1,4 @@
-#variáceis
+#Variáceis
 vetor = []
 
 #Entrada

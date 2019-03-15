@@ -1,5 +1,3 @@
-#Variáveis
-
 #Entradas
 altura = float(input("Informe sua altura: "))
 sexo = input("Informe o seu sexo m/f: ")

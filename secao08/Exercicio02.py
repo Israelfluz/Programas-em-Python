@@ -4,7 +4,7 @@ vetor1 = []
 vetor2 = []
 soma = []
 
-#entrada/processamento
+#Entrada/Processamento
 for n in range(0, 10):
     num1 = int(input("Informe o valor para o primeiro vetor: "))
     vetor1.append(num1)

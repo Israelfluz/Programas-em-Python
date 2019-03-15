@@ -1,4 +1,4 @@
-#entradas
+#Entradas
 n = int(input("Informe um número: "))
 
 #Processamento

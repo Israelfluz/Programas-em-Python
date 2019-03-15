@@ -1,4 +1,4 @@
-#variáveis
+#Variáveis
 contador_total = 0
 contador_sit_1 = 0
 contador_sit_2 = 0

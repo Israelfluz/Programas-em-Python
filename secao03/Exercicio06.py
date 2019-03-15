@@ -1,4 +1,4 @@
-#netradas
+#Entradas
 valor_por_hora = float(input("Qual o valor que você ganha por hora?"))
 horas_trabalhandas = int(input("Quantas horas você trabalhou neste mês:"))
 
